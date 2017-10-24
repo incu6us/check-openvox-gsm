@@ -1,0 +1,6 @@
+hash: 674dbfaa8ede9ec4e3ee48bfcffc1dc563eeb87ea1c5a88607f033cf2d5af0e7
+updated: 2017-10-24T14:58:53.981334354+03:00
+imports:
+- name: github.com/xinsnake/go-http-digest-auth-client
+  version: 366760120fe0342664d581b235be4eb08aca8834
+testImports: []
