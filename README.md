@@ -2,6 +2,14 @@
 
 Tool to check GSM signal on OpenVox. Compatible with [Sensu](https://sensuapp.org) 
 
+### Requirements
+ - [Glide](https://github.com/Masterminds/glide)
+ 
+To install all dependent packages, run on root of the project:
+```
+glide i
+```
+
 ### Build
 ```
 go build .
